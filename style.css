@@ -1,6 +1,9 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 header {
@@ -9,6 +12,7 @@ header {
     background: url(header_bg.webp);
     background-size: cover;
     display: flex;
+    background-image: url('https://i.pinimg.com/736x/1a/ad/13/1aad1397a89de11a1cc6bb7275b036a8.jpg');
 }
 
 .header_left {
